@@ -1,4 +1,5 @@
 CartaoDeDados
+
 Mostra um cartão onde aparece todas as informações do monstro.
 ##
 Descrição:
